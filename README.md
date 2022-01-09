@@ -4,7 +4,7 @@
 - Actually above tools help me to develop my Debugging skill.(Yes, I am good at this).
 - And also write code on **Javascript(Nodejs)** for End-to-End testing, Load testing, Performance testing etc...
 - And also having experience on Manual Testing | Automation Testing.(Finding bugs is my favourite skill).
-- Now currently focusing on Make our infrastructure more production-grade and stabilised as possible.
+- Now currently focusing on Make our infrastructure more Production-grade and stabilised as possible.
 - Currently Learning IAC(Terraform),Golang and also preparing for CKAD, CKA and some more on my whishlist.
 
 
